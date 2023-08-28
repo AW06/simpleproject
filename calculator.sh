@@ -12,6 +12,16 @@ new addition line
 
 
 
+
+
+
+
+
+
+rebase example
+
+
+
 		`
 
 
