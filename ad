@@ -1,0 +1,98 @@
+[33mcommit 62cc0a3940ee58c7a0982531216eeec349a47d76[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Tue Aug 29 11:42:34 2023 -0400
+
+    editing main2
+
+[33mcommit 39fdcbe25be308d6f64bd91ff4f0d5e2094f29ba[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 19:15:18 2023 -0400
+
+    merge ex 2
+
+[33mcommit 1176bd10629e3efc8fd28e16620e3a28121e6e2c[m[33m ([m[1;31morigin/branch3[m[33m, [m[1;32mbranch3[m[33m)[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 19:10:18 2023 -0400
+
+    rebase done ex
+
+[33mcommit 517b66f858862194e4167d2aeec15e9fecdb0491[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 18:21:50 2023 -0400
+
+    merge done
+
+[33mcommit 2b75102f5a4393398466610397fff09aef723d89[m
+Merge: 98b3586 c04f353
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 18:19:49 2023 -0400
+
+    merge
+
+[33mcommit 98b3586685df75e8b2087bc9b860ab0b296939e4[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 18:18:01 2023 -0400
+
+    changes made to calculator main
+
+[33mcommit c04f35372c882371f199fcc335267548d75a89a2[m[33m ([m[1;32mbranch1merge[m[33m)[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 18:12:29 2023 -0400
+
+     changes made to branch1merge
+
+[33mcommit 1bbd24d8b5a1028cedd39fdaa5593417d49f90b8[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 18:09:07 2023 -0400
+
+    changes made to file 1
+
+[33mcommit 5cf88bf64fb9408a193eb1ab406eded6a2658fa7[m
+Merge: ecd10d8 0233ab6
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 17:27:47 2023 -0400
+
+    changes1
+
+[33mcommit d2899eee71d732ce9de1c34bc5b28fb47cf57968[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 14:31:05 2023 -0400
+
+    rebase example is added
+
+[33mcommit 0233ab6571b5d8800548db3eec070475d6745352[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 14:27:03 2023 -0400
+
+     merge exmple is added
+
+[33mcommit ecd10d8fc39f66f6f7dc306ff7e24988f29de7d1[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 11:29:51 2023 -0400
+
+    addition added
+
+[33mcommit ca606f93cc5db447068fad4fbab29b580ef17988[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 11:29:51 2023 -0400
+
+    addition added
+
+[33mcommit f8a980b96fb1fcc867e59514389d662b9cae33b9[m
+Author: Aniqa Anwar <aniqa.wakil@gmail.com>
+Date:   Mon Aug 28 11:07:58 2023 -0400
+
+    new calculator ffile added
+    o
+
+[33mcommit af80f165a55a768c0d3d3dde78144e3b207eba1d[m
+Author: Aniqa Anwar <aniqa.aw@outlook.com>
+Date:   Thu Aug 24 15:30:54 2023 -0400
+
+    new file prj1.sh added
+
+[33mcommit 0187dcbfd87ef6583335c2fc2b6868faee809488[m
+Author: AW06 <72457876+AW06@users.noreply.github.com>
+Date:   Thu Aug 24 11:57:03 2023 -0400
+
+    Initial commit

@@ -36,7 +36,5 @@ rebase example
 
 
 
+ editing merge2
  
-
-
-
